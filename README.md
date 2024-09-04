@@ -1,3 +1,4 @@
+![logo](https://github.com/arvind9018/arvind9018/blob/main/35977714-4f0d-414b-83e1-8b1658a5fc0b.jpg)
 <h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
 <h3 align="center">A passionate Data science student from India</h3>
 
