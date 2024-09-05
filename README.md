@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind9018&label=Profile%20views&color=0e75b6&style=flat" alt="arvind9018" /> </p>
 
-- 🌱 I’m currently learning **Tablue, R programing**
+- 🌱 I’m currently learning **Tableau, R programing, Predictive Analytics**
 
 - 💬 Ask me about **Java, Python, C and C++**
 
