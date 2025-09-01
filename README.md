@@ -1,73 +1,57 @@
+![logo](https://github.com/arvind9018/arvind9018/blob/main/35977714-4f0d-414b-83e1-8b1658a5fc0b.jpg)
+
 <h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
-<h3 align="center">A passionate Data Science student from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arvind9018&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h3 align="center">A passionate Data science student from India</h3>
 
----
+<!-- <p align="right"> <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" heights = "300" width = "400"/> </p> -->
 
-### About Me
 
-- 🌱 I’m currently expanding my skills in **Data Science**, with a focus on **Tableau, R programming, and Predictive Analytics**.
-- 💬 Ask me about **Java, Python, C, C++, JavaScript, and data science concepts.**
-- 📫 You can reach me at **arvindkumar18320@gmail.com**.
-- ⚡ Fun fact: I'm a firm believer in the power of a good joke to lighten a serious situation.
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind9018&label=Profile%20views&color=0e75b6&style=flat" alt="arvind9018" /> </p>
 
-### Languages & Frameworks
 
-A quick overview of the languages and frameworks I work with:
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-</p>
+- 🌱 I’m currently learning **Tableau, R programing, Predictive Analytics**
 
----
 
-### Key Skills & Functions
 
-- **Data Analysis**: Proficient in data cleaning, manipulation, and visualization using **Python** libraries like **Pandas, NumPy, and Matplotlib/Seaborn**.
-- **Web Development**: Experience building responsive user interfaces with **React** and styling with **Tailwind CSS**. Familiar with server-side logic using **Node.js**.
-- **Database Management**: Knowledgeable in **SQL** and database concepts, with practical experience using **Oracle**.
-- **Programming & Algorithms**: Strong foundation in **C, C++, Java, and Python** for problem-solving on platforms like HackerRank and LeetCode.
+- 💬 Ask me about **Java, Python, C and C++**
 
----
 
-### My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind9018&show_icons=true&locale=en&layout=compact" alt="Arvind's Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvind9018&" alt="Arvind's GitHub Streak" />
-</p>
+- 📫 How to reach me **arvindkumar18320@gmail.com**
 
----
 
-### Let's Connect
+
+- ⚡ Fun fact **I think I am very funny and Serious**
+
+
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/arvind-kumar-9b898b247" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/arvind.yadav.07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@arvindkumar18320" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/arvindkumar18320" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/arvind-kumar-9b898b247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvind-kumar-9b898b247" height="30" width="40" /></a>
+
+<a href="https://instagram.com/arvind.yadav.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arvind.yadav.07" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/@arvindkumar18320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arvindkumar18320" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/arvindkumar18320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arvindkumar18320" height="30" width="40" /></a>
+
 </p>
 
-***
 
-### Key Improvements:
 
-* **More Technologies**: Added icons and links for **JavaScript**, **React**, **Node.js**, and **Tailwind CSS** to the "Languages & Frameworks" section.
-* **New "Key Skills & Functions" Section**: This is the most significant addition. It goes beyond just listing languages and explains **how you use them**. This provides a much clearer picture of your capabilities to potential collaborators or employers.
-* **Structured Information**: The new section is organized with bolded subheadings (**Data Analysis**, **Web Development**, **Database Management**, etc.) to make it easy to read and understand your specific skill sets.
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind9018&show_icons=true&locale=en&layout=compact" alt="arvind9018" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind9018&" alt="arvind9018" /></p> can u make more attractive and good
